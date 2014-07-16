@@ -57,7 +57,7 @@
         "deep-equal": "^0.2.1",
         "escape-regexp-component": "^1.0.2",
         "formidable": "^1.0.14",
-        "http-signature": "^0.10.0",
+        "http-signature": "git://github.com/mtabini/node-http-signature",
         "keep-alive-agent": "^0.0.1",
         "lru-cache": "^2.5.0",
         "mime": "^1.2.11",
